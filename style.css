@@ -8,3 +8,10 @@ h1 {
 p {
 	color: white;
 }
+
+#names {
+	font-style:sans;
+	font-size:25px;
+	color:white;
+
+}
